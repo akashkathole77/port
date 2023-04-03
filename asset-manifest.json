@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/port/static/css/main.bab52d74.css",
+    "main.js": "/port/static/js/main.fe3fe477.js",
+    "static/js/415.4d6acbeb.chunk.js": "/port/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/port/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/port/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/port/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/port/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/logo.png": "/port/static/media/logo.7d6e6de378b87384ef55.png",
+    "static/media/codeEditor.png": "/port/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/brain_tumor.png": "/port/static/media/brain_tumor.c56546f29024fc65cff3.png",
+    "static/media/blog.png": "/port/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/resume.png": "/port/static/media/resume.de2bf0bfdc068a001eeb.png",
+    "static/media/home-main.svg": "/port/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/port/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/uber.png": "/port/static/media/uber.efb39e216ccf2e3e7033.png",
+    "static/media/chatify.png": "/port/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/resume.pdf": "/port/static/media/resume.09674ed67776cbd54ba2.pdf",
+    "static/media/review_scrapper.png": "/port/static/media/review_scrapper.2df472e06a0c2f7d1cd7.png",
+    "static/media/home-bg.jpg": "/port/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/loan_prediction.png": "/port/static/media/loan_prediction.6356ab14a2d52bb02165.png",
+    "static/media/sales.png": "/port/static/media/sales.1ad0086c9aeaf711fdba.png",
+    "static/media/avatar.svg": "/port/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/prank.png": "/port/static/media/prank.0c23b67bbcc062e00fd3.png",
+    "static/media/pre.svg": "/port/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/port/index.html",
+    "main.bab52d74.css.map": "/port/static/css/main.bab52d74.css.map",
+    "main.fe3fe477.js.map": "/port/static/js/main.fe3fe477.js.map",
+    "415.4d6acbeb.chunk.js.map": "/port/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/port/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bab52d74.css",
+    "static/js/main.fe3fe477.js"
+  ]
+}
